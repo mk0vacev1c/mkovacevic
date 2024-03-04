@@ -227,5 +227,37 @@ export const projects = [
     github: "https://github.com/mk0vacev1c/si-project-react",
     webapp: "",
   },
+  {
+    id: 12,
+    title: "React Weather app",
+    date: "Aug 2023",
+    description:
+      "React weather app with free api",
+    image:
+      "",
+    tags: [
+      "React Js",
+      "Free API",
+    ],
+    category: "web app",
+    github: "https://github.com/mk0vacev1c/weather-app",
+    webapp: "",
+  },
+  {
+    id: 13,
+    title: "Emp Manager app",
+    date: "Aug 2022",
+    description:
+      "Emp manager app with Angular",
+    image:
+      "",
+    tags: [
+      "Angular JS",
+      "TypeScript",
+    ],
+    category: "web app",
+    github: "https://github.com/mk0vacev1c/empapp-frontend",
+    webapp: "",
+  },
 ];
 
