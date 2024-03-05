@@ -259,5 +259,21 @@ export const projects = [
     github: "https://github.com/mk0vacev1c/empapp-frontend",
     webapp: "",
   },
+  {
+    id: 14,
+    title: "Hotel Website UI redesign",
+    date: "Oct 2023",
+    description:
+      "Redesign Hotel website",
+    image:
+      "",
+    tags: [
+      "Figma",
+      "UI/UX",
+    ],
+    category: "designs",
+    behance: "https://www.behance.net/gallery/176788005/IG-Hotel-redesign",
+    webapp: "",
+  },
 ];
 
