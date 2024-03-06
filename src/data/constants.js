@@ -275,5 +275,37 @@ export const projects = [
     behance: "https://www.behance.net/gallery/176788005/IG-Hotel-redesign",
     webapp: "",
   },
+  {
+    id: 15,
+    title: "CT-Mobile",
+    date: "Nov 2023",
+    description:
+      "Redesign CT-Mobile",
+    image:
+      "",
+    tags: [
+      "Figma",
+      "UI/UX",
+    ],
+    category: "designs",
+    behance: "https://www.behance.net/gallery/176831435/Redesign-Website-CT-Mobile",
+    webapp: "",
+  },
+  {
+    id: 16,
+    title: "No-scissors-nov",
+    date: "Nov 2021",
+    description:
+      "Logo design No-scissors-nov",
+    image:
+      "",
+    tags: [
+      "Adobe Illustrator",
+      "Logo Design",
+    ],
+    category: "designs",
+    behance: "https://www.behance.net/gallery/121600897/No-scissors-November",
+    webapp: "",
+  },
 ];
 
