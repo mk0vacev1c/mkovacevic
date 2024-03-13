@@ -173,10 +173,26 @@ export const experiences = [
   },
   {
     id: 3,
+    img: "https://www.helloworld.rs/public/files/_thumb/120x120/posao/logo/forwardslash.png",
+    role: "WordPress Internship",
+    company: "Forwardslash",
+    date: "Aug 2021 - Oct 2021",
+    desc: "During internship, I specialized in WordPress development, honing my skills in creating custom themes, setting up WooCommerce shops, and developing custom plugins.",
+    skills: [
+      "WordPress",
+      "JavaScript",
+      "VueJS",
+      "Elementor",
+      "WooCommerce",
+      "Custom WordPress theme"
+    ],
+  },
+  {
+    id: 4,
     img: "https://croonus.com/croonus/img/croonus-logo-icon.png",
-    role: "Fullstack Externship",
-    company: "Flipr",
-    date: "June 2023 - July 2023",
+    role: "Frontend Internship",
+    company: "Croonus Technologies",
+    date: "Feb 2020 - May 2020",
     desc: "Developed features using JavaScript, HTML, CSS, and Bootstrap, enhancing the user interface and experience. Maintained the local town site for the Tiffany store in Čačak, showcasing strong website development and design skills.",
     skills: [
       "HTML",
