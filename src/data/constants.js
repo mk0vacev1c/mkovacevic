@@ -289,7 +289,6 @@ export const projects = [
     ],
     category: "designs",
     behance: "https://www.behance.net/gallery/176788005/IG-Hotel-redesign",
-    webapp: "",
   },
   {
     id: 15,
@@ -305,10 +304,10 @@ export const projects = [
     ],
     category: "designs",
     behance: "https://www.behance.net/gallery/176831435/Redesign-Website-CT-Mobile",
-    webapp: "",
   },
   {
     id: 16,
+    img: "https://1drv.ms/i/s!As85cVnyI-zsgwZyUDTd0n9KVi__?e=PF50m7",
     title: "No-scissors-nov",
     date: "Nov 2021",
     description:
@@ -321,7 +320,6 @@ export const projects = [
     ],
     category: "designs",
     behance: "https://www.behance.net/gallery/121600897/No-scissors-November",
-    webapp: "",
   },
 ];
 
