@@ -105,7 +105,7 @@ const Projects = ({ openModal, setOpenModal }) => {
           }}
         >
           I have worked on a wide range of projects. From web apps to graphic desing and UI/UX design. 
-          Here are some of my projects.
+          Here are some of my projects. (work in progress) 
         </Desc>
         <ToggleButtonGroup>
           <ToggleButton

@@ -231,8 +231,6 @@ export const projects = [
     date: "Jan 2022",
     description:
       "Fullstack app is No Shave Novembar for our country. In this project, I was the team lead in our group, this project consists Blog, Shop, Auction, build with React JS-Bootsrap-Node-FirebaseA Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
-    image:
-      "",
     tags: [
       "React Js",
       "Node Js",
@@ -249,8 +247,6 @@ export const projects = [
     date: "Aug 2023",
     description:
       "React weather app with free api",
-    image:
-      "",
     tags: [
       "React Js",
       "Free API",
@@ -265,8 +261,6 @@ export const projects = [
     date: "Aug 2022",
     description:
       "Emp manager app with Angular",
-    image:
-      "",
     tags: [
       "Angular JS",
       "TypeScript",
@@ -281,8 +275,6 @@ export const projects = [
     date: "Oct 2023",
     description:
       "Redesign Hotel website",
-    image:
-      "",
     tags: [
       "Figma",
       "UI/UX",
@@ -296,8 +288,6 @@ export const projects = [
     date: "Nov 2023",
     description:
       "Redesign CT-Mobile",
-    image:
-      "",
     tags: [
       "Figma",
       "UI/UX",
@@ -307,13 +297,11 @@ export const projects = [
   },
   {
     id: 16,
-    img: "https://1drv.ms/i/s!As85cVnyI-zsgwZyUDTd0n9KVi__?e=PF50m7",
+    img: "https://drive.google.com/file/d/1pFlp3CwMf_TwwbpopnoTDpuVgtXgNABG/view?usp=sharing",
     title: "No-scissors-nov",
     date: "Nov 2021",
     description:
       "Logo design No-scissors-nov",
-    image:
-      "",
     tags: [
       "Adobe Illustrator",
       "Logo Design",
