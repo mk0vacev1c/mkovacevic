@@ -227,6 +227,20 @@ export const education = [
 export const projects = [
   {
     id: 11,
+    title: "mk0vacev1c-port",
+    date: "Jan-Mart 2024",
+    description:
+      "React JS ThreeJS portfolio build",
+    tags: [
+      "React Js",
+      "Node Js",
+      "ThreeJS",
+    ],
+    category: "web app",
+    github: "https://github.com/mk0vacev1c/mkovacevic",
+  },
+  {
+    id: 12,
     title: "NoShaveNov",
     date: "Jan 2022",
     description:
@@ -239,10 +253,9 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/mk0vacev1c/si-project-react",
-    webapp: "",
   },
   {
-    id: 12,
+    id: 13,
     title: "React Weather app",
     date: "Aug 2023",
     description:
@@ -253,10 +266,9 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/mk0vacev1c/weather-app",
-    webapp: "",
   },
   {
-    id: 13,
+    id: 14,
     title: "Emp Manager app",
     date: "Aug 2022",
     description:
@@ -267,10 +279,9 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/mk0vacev1c/empapp-frontend",
-    webapp: "",
   },
   {
-    id: 14,
+    id: 15,
     title: "Hotel Website UI redesign",
     date: "Oct 2023",
     description:
@@ -283,7 +294,7 @@ export const projects = [
     behance: "https://www.behance.net/gallery/176788005/IG-Hotel-redesign",
   },
   {
-    id: 15,
+    id: 16,
     title: "CT-Mobile",
     date: "Nov 2023",
     description:
@@ -296,7 +307,7 @@ export const projects = [
     behance: "https://www.behance.net/gallery/176831435/Redesign-Website-CT-Mobile",
   },
   {
-    id: 16,
+    id: 17,
     img: "https://drive.google.com/file/d/1pFlp3CwMf_TwwbpopnoTDpuVgtXgNABG/view?usp=sharing",
     title: "No-scissors-nov",
     date: "Nov 2021",
